@@ -4,7 +4,7 @@ Hello! Here's the code and data to play around with models for the Deep Learning
 
 ## How to
 - Install the conda environment in `environment.yml` using conda or mamba (skip this if you're using a virtual machine)
-- Activate the environment and launch `jupyterlab` in the terminal (skip this if you're using a virtual machine)
+- Activate the environment and launch `jupyter lab` in the terminal (skip this if you're using a virtual machine)
 - Run the notebook `CNN_motif_pytorch.ipynb`
 
 ## Learning goals
